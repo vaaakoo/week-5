@@ -2,3 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
+#toggle:checked ~ label div.toggle-dot {
+    @apply translate-x-3;
+  };
