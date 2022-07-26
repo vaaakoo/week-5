@@ -1,5 +1,7 @@
 # week-5
 > Devjobs Project from BitcCamp...
+> here is simple tailwind project with resposive styles
+> and with dark-mode by js
 
 
 ## Quick Start 
@@ -23,12 +25,20 @@ Install my-project with npm
 ```bash
 `cd` to project's dir and run `npm install` 
 ```
-
+```bash
+or `run npm dev` 
+```
 
 ## Build
 ```bash
 `npm run build` to rebuild `tailwind` from sources in `./` directory
 ```
+## run 
+```bash
+`run to localhost` with vscode form `index.html`
+`http://127.0.0.1:5500/`
+```
+
 ## Browser Support
 
 We try to make sure Dashboard works well in the latest versions of all major browsers

@@ -29,6 +29,10 @@ module.exports = {
         'orange-scoot': '#E99210',
         'b-red': '#E54D25',
         'vector-collor': '#34353F',
+        'sunlight': '#f5e342',
+        'office-light': '#2F4FC7',
+        'office-light-circle': '#5175FF',
+
       },
     },
   },
