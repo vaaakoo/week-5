@@ -1,7 +1,7 @@
 # week-5
 > Devjobs Project from BitcCamp...
 
-## [![Link](https://img.shields.io/badge/<SITE>-<LINK>-<blue>)](https://vaaakoo.github.io/week-5/)
+## [![Link](https://img.shields.io/badge/<SITE>-<LINK>-<blue>)]([https://vaaakoo.github.io/week-5/](https://vaaakoo.github.io/Tic-Tac-Toe/))
 
 > here is simple tailwind project with resposive styles
 
